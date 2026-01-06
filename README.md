@@ -7,6 +7,7 @@
 [![Standard](https://img.shields.io/badge/standard-Universal-purple)](specs/bit_structure.md)
 [![Size](https://img.shields.io/badge/size-496_bits-blue)](FORMULAS.md)
 [![Partition](https://img.shields.io/badge/partition-%CF%86_Split-gold)](FORMULAS.md)
+[![License](https://img.shields.io/badge/License-Apache_2.0-grey.svg)](LICENSE)
 
 > **"Data is not a stream. Data is a crystal."**
 
